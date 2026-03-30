@@ -1,0 +1,13 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TempoTube",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TTube",
+  "start_url": "https://github.com/damonkay91-commits/TempoTube/",
+  "theme_color": "#e83939",
+  "id": "TT",
+  "description": "A simple BPM analyser &amp; phrase counter for DJs"
+}
